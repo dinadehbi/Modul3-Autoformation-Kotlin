@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Modul3-Kotlin.iml" filepath="$PROJECT_DIR$/.idea/Modul3-Kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kotlin-advance-concept.iml" filepath="$PROJECT_DIR$/.idea/modules/Kotlin-advance-concept.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Kotlin-advance-concept.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Kotlin-advance-concept.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Kotlin-advance-concept.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Kotlin-advance-concept.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Kotlin-advance-concept.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Kotlin-advance-concept.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Kotlin-advance-concept.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Kotlin-advance-concept.app.unitTest.iml" />
     </modules>
   </component>
 </project>
